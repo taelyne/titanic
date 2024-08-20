@@ -1,0 +1,8 @@
+aaa
+bbb
+ccc
+<<<<<<< HEAD:test
+ddd
+=======
+ddd
+>>>>>>> origin/titanic_4:test.txt
